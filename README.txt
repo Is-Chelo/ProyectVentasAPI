@@ -1,5 +1,5 @@
 Requisitos 
- * instalar composer
+ * instalar composer https://getcomposer.org/download/   ...........  Composer-Setup.exe
  * php 7.0.2 o superior
  * motor DB mysql
 --------------------------------------
